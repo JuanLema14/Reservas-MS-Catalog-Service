@@ -1,6 +1,6 @@
 # Plataforma de Reservas de Servicios - MS-Catalog-Service
 
-[![CI/CD Pipeline](https://github.com/Isa-Bedoya-UdeA/Reservas-MS-Catalog-Service/actions/workflows/build.yml/badge.svg)](https://github.com/Isa-Bedoya-UdeA/Reservas-MS-Catalog-Service/actions/workflows/build.yml)
+[![CI/CD Pipeline](https://github.com/JuanLema14/Reservas-MS-Catalog-Service/actions/workflows/ci.yml/badge.svg)]([https://github.com/Isa-Bedoya-UdeA/Reservas-MS-Catalog-Service](https://github.com/JuanLema14/Reservas-MS-Catalog-Service)/actions/workflows/ci.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JuanLema14_Reservas-MS-Catalog-Service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=JuanLema14_Reservas-MS-Catalog-Service)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=JuanLema14_Reservas-MS-Catalog-Service&metric=bugs)](https://sonarcloud.io/summary/new_code?id=JuanLema14_Reservas-MS-Catalog-Service)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=JuanLema14_Reservas-MS-Catalog-Service&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=JuanLema14_Reservas-MS-Catalog-Service)
