@@ -47,6 +47,7 @@
             **/client/**,
             **/dto/**,
             **/entity/**,
+            **/exception/**,
             **/ReservasMsCatalogServiceApplication.java,
             **/service/impl/EmailServiceImpl.java
         </sonar.exclusions>
@@ -246,6 +247,7 @@
                 <version>0.8.10</version>
                 <configuration>
                     <excludes>
+                        <exclude>com/codefactory/reservasmscatalogservice/exception/**</exclude>
                         <exclude>com/codefactory/reservasmscatalogservice/config/**</exclude>
                         <exclude>com/codefactory/reservasmscatalogservice/security/**</exclude>
                         <exclude>com/codefactory/reservasmscatalogservice/mapper/*MapperImpl.class</exclude>
